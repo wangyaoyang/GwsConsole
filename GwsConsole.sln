@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GwsConsole", "GwsConsole\GwsConsole.vcxproj", "{D4E5FAB7-8A1A-4C5A-B8D6-3BAC2217C925}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SocketApi", "Libs\SocketApi\SocketApi.vcxproj", "{26A70F38-811E-4E1E-A0A7-1FA2239ECA86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DllDebug|Win32 = DllDebug|Win32
+		DllRelease|Win32 = DllRelease|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4E5FAB7-8A1A-4C5A-B8D6-3BAC2217C925}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D4E5FAB7-8A1A-4C5A-B8D6-3BAC2217C925}.Debug|Win32.Build.0 = Debug|Win32
+		{D4E5FAB7-8A1A-4C5A-B8D6-3BAC2217C925}.DllDebug|Win32.ActiveCfg = Debug|Win32
+		{D4E5FAB7-8A1A-4C5A-B8D6-3BAC2217C925}.DllDebug|Win32.Build.0 = Debug|Win32
+		{D4E5FAB7-8A1A-4C5A-B8D6-3BAC2217C925}.DllRelease|Win32.ActiveCfg = Release|Win32
+		{D4E5FAB7-8A1A-4C5A-B8D6-3BAC2217C925}.DllRelease|Win32.Build.0 = Release|Win32
+		{D4E5FAB7-8A1A-4C5A-B8D6-3BAC2217C925}.Release|Win32.ActiveCfg = Release|Win32
+		{D4E5FAB7-8A1A-4C5A-B8D6-3BAC2217C925}.Release|Win32.Build.0 = Release|Win32
+		{26A70F38-811E-4E1E-A0A7-1FA2239ECA86}.Debug|Win32.ActiveCfg = Debug|Win32
+		{26A70F38-811E-4E1E-A0A7-1FA2239ECA86}.Debug|Win32.Build.0 = Debug|Win32
+		{26A70F38-811E-4E1E-A0A7-1FA2239ECA86}.DllDebug|Win32.ActiveCfg = DllDebug|Win32
+		{26A70F38-811E-4E1E-A0A7-1FA2239ECA86}.DllDebug|Win32.Build.0 = DllDebug|Win32
+		{26A70F38-811E-4E1E-A0A7-1FA2239ECA86}.DllRelease|Win32.ActiveCfg = DllRelease|Win32
+		{26A70F38-811E-4E1E-A0A7-1FA2239ECA86}.DllRelease|Win32.Build.0 = DllRelease|Win32
+		{26A70F38-811E-4E1E-A0A7-1FA2239ECA86}.Release|Win32.ActiveCfg = Release|Win32
+		{26A70F38-811E-4E1E-A0A7-1FA2239ECA86}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
